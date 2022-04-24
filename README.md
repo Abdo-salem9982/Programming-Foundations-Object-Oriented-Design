@@ -25,4 +25,4 @@ All good software starts with a great design. Object-oriented design helps devel
 
 ### Certificate [Link](https://www.linkedin.com/learning/certificates/db307bfe8ac61a43ed85b6df2de3fc414160c877648d2fc9bef699e6d79d86cc)
 
-### For More Notes:- [Notion](https://tranquil-popcorn-52a.notion.site/3-Programming-Foundations-Object-Oriented-Design-2h-40m-9b153b8dc5ea45b4bc8b15887a5d13c0)
+### For More Notes:- [Notion](https://tranquil-popcorn-52a.notion.site/03-Programming-Foundations-Object-Oriented-Design-850f084b0da64382954ffdfd922081af)
